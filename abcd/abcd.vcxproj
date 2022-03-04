@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClCompile Include="abcd.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="摄像头显示.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
